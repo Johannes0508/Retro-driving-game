@@ -1,0 +1,10 @@
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA_RETRO_RACING_GAME_nya.Form1.resources
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA_RETRO_RACING_GAME_nya.Properties.Resources.resources
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA RETRO RACING GAME nya.csproj.GenerateResource.cache
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA RETRO RACING GAME nya.csproj.CoreCompileInputs.cache
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\bin\Debug\RIKTIGA RETRO RACING GAME nya.exe.config
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\bin\Debug\RIKTIGA RETRO RACING GAME nya.exe
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\bin\Debug\RIKTIGA RETRO RACING GAME nya.pdb
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA RETRO RACING GAME nya.exe
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA RETRO RACING GAME nya.pdb
+C:\Users\johannes.botvidzong\source\repos\RIKTIGA RETRO RACING GAME nya\RIKTIGA RETRO RACING GAME nya\obj\Debug\RIKTIGA RETRO RACING GAME nya.csprojAssemblyReference.cache
